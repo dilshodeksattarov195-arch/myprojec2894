@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentpalidate",
+        "uuid": 3061852,
+        "checksum": "4gn8x9"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
